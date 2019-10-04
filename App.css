@@ -1,0 +1,25 @@
+.header{background-color: rgb(243, 106, 106);}
+.heading1{display:inline-block; margin-left:50px; }
+.heading2{margin-right: 50px; background-color: rgb(194, 191, 191);float:right;margin-top: 25px;}
+.text{display: inline-block; margin-right: 40px; }
+ h2,h3{margin-top:-20px;}
+.demo{float: right; }
+.First{background-color: darkgoldenrod;color: white;}
+.Sec{background-color: greenyellow; color: white;}
+.Tri{background-color:turquoise;color: white;}
+.Navi{float: left;margin: 70px; }
+.box1{display: inline-block;margin-left: 15px;padding: 5px;}
+.box{width: 960px;margin-left: -130px;display: inline-block; margin-top:-30px;} 
+.im{border: 2px solid  rgb(216, 144, 144);} 
+.heading6{width:290px; margin-right: 3px;}
+ h4{margin-right: 150px;}
+.fo{margin-left: 100px;}
+.ba::first-letter{font-size: 30px; color: rgb(174, 68, 235);}
+.ti::first-letter{font-size: 30px;color: green;}
+.pe::first-letter{font-size: 30px;color: lightseagreen;}
+button{color: magenta;}
+td,tr {border: 2px solid red;}
+.M{background-color: darkgoldenrod;color: white; }
+.J{background-color: greenyellow; color: white;}
+.H{background-color:turquoise;color: white;}
+a{text-decoration: none;}
